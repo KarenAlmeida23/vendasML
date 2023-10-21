@@ -6,7 +6,7 @@ Integrantes:
 - Anna Clara Amâncio
 - [Karen Almeida](https://github.com/KarenAlmeida23)
 - [Manusa Leal](https://github.com/manusaleal)
-- [Rhayza](https://github.com/RhayzaPinto)
+- [Rhayza Pinto](https://github.com/RhayzaPinto)
 - Raphael
 
 Este projeto tem como objetivo a realização do estudo de previsão de Churn em uma empresa de Telecomunicações, baseado no comportamento dos clientes contido no [dataset de churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) disponibilizado no Kaggle. 
