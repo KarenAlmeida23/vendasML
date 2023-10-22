@@ -3,7 +3,7 @@
 Projeto final do curso de Machine Learning I da Turma Santander Coders 2023 - Trilha de Data Science - Turma 1008.
 
 Integrantes:
-- Anna Clara Amâncio
+- [Anna Clara Amâncio](https://github.com/claraamancio)
 - [Karen Almeida](https://github.com/KarenAlmeida23)
 - [Manusa Leal](https://github.com/manusaleal)
 - [Rhayza Pinto](https://github.com/RhayzaPinto)
